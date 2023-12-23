@@ -1,4 +1,4 @@
-![Screenshot of the landing page](https://github.com/TimiBee/url-shortening-api-landing-page-main/image/screenshot.png)
+![Screenshot of the landing page](https://github.com/TimiBee/url-shortening-api-landing-page-main/images/screenshot.png)
 
 🚀
 # URL Shortening API Landing Page
@@ -19,15 +19,18 @@ API integration (optional): Allows developers to incorporate the URL shortening 
 # Getting Started
 -Clone this repository:
 Bash
+
 git clone (https://github.com/TimiBee/url-shortening-API-landing-page)
 
 -Install dependencies:
 Bash
-cd URL-shortening-API-landing-page
+cd url-shortening-API-landing-page
+
 npm install
 
 -Start the development server:
 Bash
+
 npm start
 
 -Access the landing page in your browser:
