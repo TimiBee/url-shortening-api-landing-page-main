@@ -1,4 +1,3 @@
-![Screenshot of the landing page](https://github.com/TimiBee/url-shortening-api-landing-page-main/images/screenshot.png)
 
 🚀
 # URL Shortening API Landing Page
